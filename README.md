@@ -13,8 +13,8 @@ this file contais a dictionary that describes the regions hierarchy.</br>
 <i>This file will not be used to decode the regions mask. It is only for the user to know the hierarchy.</i></br>
 
 - <b>region_mask_decoder.py.py</b> </br>
-this python file contains the RegionMaskDecoder class.
-The following steps will describe how to use it. -- IT IS VERY EASY :) -
+this python file contains the RegionMaskDecoder class.</br>
+<i>The following steps will describe how to use it. -- IT IS VERY EASY :) -</i></br>
 
 # Pre-requirements:
 Install these 3 libraries: numpy, skimage and tifffile.
