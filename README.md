@@ -12,7 +12,7 @@ This file contains a dictionary where the key is the regions IDs and the values 
 This file contais a dictionary that describes the regions hierarchy.</br>
 <i>This file will not be used to decode the regions mask. It is only for the user to know the hierarchy.</i></br>
 
-- <b>region_mask_decoder.py.py</b> </br>
+- <b>region_mask_decoder.py</b> </br>
 This python file contains the RegionMaskDecoder class.</br>
 <i>The following steps will describe how to use it. -- IT IS VERY EASY :) -</i></br>
 
