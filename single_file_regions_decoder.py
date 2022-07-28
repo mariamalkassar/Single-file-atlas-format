@@ -131,7 +131,7 @@ class RegionMaskDecoder:
 
 
 # The path to the regions' data JSON file.
-json_file_path = "/path/to/the/regions-hierarchy.json"
+json_file_path = "/path/to/the/regions-leaves-info.json"
 
 # The path to the regions' combined mask
 # Contains all the leaves of the hierarchy regions. Each leaf has its own color specified in the JSON file
