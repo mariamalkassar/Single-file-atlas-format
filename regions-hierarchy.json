@@ -1,0 +1,864 @@
+{
+  "915": {
+    "name": "ventral_thalamus__alar_part",
+    "color": 71,
+    "leaves": [
+      958
+    ]
+  },
+  "916": {
+    "name": "preoptic_region",
+    "color": 72,
+    "leaves": [
+      994,
+      948
+    ]
+  },
+  "917": {
+    "name": "dorsal_thalamus_proper",
+    "color": 73,
+    "leaves": [
+      957
+    ]
+  },
+  "918": {
+    "name": "ventral_telencephalon_(subpallium)",
+    "color": 74,
+    "leaves": []
+  },
+  "919": {
+    "name": "pituitary",
+    "color": 75,
+    "leaves": []
+  },
+  "920": {
+    "name": "olfactory_epithelium",
+    "color": 76,
+    "leaves": []
+  },
+  "921": {
+    "name": "tegmentum",
+    "color": 77,
+    "leaves": [
+      1034,
+      1006,
+      1015,
+      1008
+    ]
+  },
+  "922": {
+    "name": "inferior_dorsal_medulla_oblongata",
+    "color": 78,
+    "leaves": [
+      943,
+      965,
+      981,
+      985,
+      947,
+      987,
+      1014
+    ]
+  },
+  "923": {
+    "name": "retina",
+    "color": 79,
+    "leaves": []
+  },
+  "924": {
+    "name": "inferior_olive",
+    "color": 80,
+    "leaves": []
+  },
+  "925": {
+    "name": "thalamus_(dorsal_thalamus)",
+    "color": 81,
+    "leaves": [
+      932,
+      939,
+      993,
+      957,
+      1035
+    ]
+  },
+  "926": {
+    "name": "sfgs__sgc",
+    "color": 82,
+    "leaves": []
+  },
+  "927": {
+    "name": "intermediate_ventral_medulla_oblongata_(remaining)",
+    "color": 83,
+    "leaves": []
+  },
+  "928": {
+    "name": "anterior_lateral_line_ganglion",
+    "color": 84,
+    "leaves": []
+  },
+  "929": {
+    "name": "intermediate_dorsal_medulla_oblongata_stripe_4",
+    "color": 85,
+    "leaves": []
+  },
+  "930": {
+    "name": "superior_dorsal_medulla_oblongata_stripe_5",
+    "color": 86,
+    "leaves": []
+  },
+  "931": {
+    "name": "inferior_ventral_medulla_oblongata_(entire)",
+    "color": 87,
+    "leaves": [
+      924,
+      936,
+      1010,
+      1019
+    ]
+  },
+  "932": {
+    "name": "epiphysis",
+    "color": 88,
+    "leaves": []
+  },
+  "933": {
+    "name": "eminentia_thalami",
+    "color": 89,
+    "leaves": [
+      975,
+      978
+    ]
+  },
+  "934": {
+    "name": "trochlear_motor_nucleus",
+    "color": 90,
+    "leaves": []
+  },
+  "935": {
+    "name": "habenula",
+    "color": 91,
+    "leaves": [
+      939,
+      993
+    ]
+  },
+  "936": {
+    "name": "inferior_raphe",
+    "color": 92,
+    "leaves": []
+  },
+  "937": {
+    "name": "superior_dorsal_medulla_oblongata",
+    "color": 93,
+    "leaves": [
+      934,
+      974,
+      1001,
+      938,
+      930,
+      945
+    ]
+  },
+  "938": {
+    "name": "superior_dorsal_medulla_oblongata_stripe_4",
+    "color": 94,
+    "leaves": []
+  },
+  "939": {
+    "name": "dorsal_habenula",
+    "color": 95,
+    "leaves": []
+  },
+  "940": {
+    "name": "superior_medulla_oblongata",
+    "color": 96,
+    "leaves": [
+      934,
+      974,
+      1001,
+      938,
+      930,
+      945,
+      964,
+      967,
+      997,
+      1016,
+      1022,
+      1023,
+      1029,
+      1030,
+      1031,
+      1032
+    ]
+  },
+  "941": {
+    "name": "intermediate_dorsal_medulla_oblongata_stripe_5",
+    "color": 97,
+    "leaves": []
+  },
+  "943": {
+    "name": "inferior_dorsal_medulla_oblongata_stripe_1",
+    "color": 98,
+    "leaves": []
+  },
+  "944": {
+    "name": "facial_motor_nucleus",
+    "color": 99,
+    "leaves": []
+  },
+  "945": {
+    "name": "medial_octavolateralis_nucleus",
+    "color": 100,
+    "leaves": []
+  },
+  "946": {
+    "name": "stratum_opticum",
+    "color": 101,
+    "leaves": []
+  },
+  "947": {
+    "name": "vagus_motor_nucleus",
+    "color": 102,
+    "leaves": []
+  },
+  "948": {
+    "name": "retinal_arborization_field_2",
+    "color": 103,
+    "leaves": []
+  },
+  "949": {
+    "name": "retinal_arborization_field_5",
+    "color": 104,
+    "leaves": []
+  },
+  "950": {
+    "name": "intermediate_hypothalamus_(remaining)",
+    "color": 105,
+    "leaves": []
+  },
+  "951": {
+    "name": "dorsal_telencephalon_(pallium)",
+    "color": 106,
+    "leaves": []
+  },
+  "953": {
+    "name": "diffuse_nucleus_of_the_inferior_lobe",
+    "color": 107,
+    "leaves": []
+  },
+  "954": {
+    "name": "tectum_&_tori",
+    "color": 108,
+    "leaves": [
+      963,
+      926,
+      946,
+      969,
+      995,
+      1000,
+      1018,
+      1024,
+      970,
+      989
+    ]
+  },
+  "955": {
+    "name": "intermediate_ventral_medulla_oblongata_(entire)",
+    "color": 109,
+    "leaves": [
+      927,
+      944,
+      961
+    ]
+  },
+  "956": {
+    "name": "intermediate_dorsal_medulla_oblongata_stripe_2&3",
+    "color": 110,
+    "leaves": []
+  },
+  "957": {
+    "name": "retinal_arborization_field_4",
+    "color": 111,
+    "leaves": []
+  },
+  "958": {
+    "name": "retinal_arborization_field_3",
+    "color": 112,
+    "leaves": []
+  },
+  "959": {
+    "name": "cerebellum",
+    "color": 113,
+    "leaves": []
+  },
+  "960": {
+    "name": "pretectum__alar_part",
+    "color": 114,
+    "leaves": [
+      949,
+      992,
+      1005,
+      996,
+      1003
+    ]
+  },
+  "961": {
+    "name": "abducens_motor_nucleus",
+    "color": 115,
+    "leaves": []
+  },
+  "962": {
+    "name": "tectal_neuropil",
+    "color": 116,
+    "leaves": [
+      926,
+      946,
+      969,
+      995,
+      1000,
+      1018,
+      1024
+    ]
+  },
+  "963": {
+    "name": "torus_longitudinalis",
+    "color": 117,
+    "leaves": []
+  },
+  "964": {
+    "name": "anterior_(dorsal)_trigeminal_motor_nucleus",
+    "color": 118,
+    "leaves": []
+  },
+  "965": {
+    "name": "inferior_dorsal_medulla_oblongata_stripe_2&3",
+    "color": 119,
+    "leaves": []
+  },
+  "966": {
+    "name": "trigeminal_ganglion",
+    "color": 120,
+    "leaves": []
+  },
+  "967": {
+    "name": "superior_raphe",
+    "color": 121,
+    "leaves": []
+  },
+  "968": {
+    "name": "superior_dorsal_medulla_oblongata_stripe_1_(entire)",
+    "color": 122,
+    "leaves": [
+      934,
+      974
+    ]
+  },
+  "969": {
+    "name": "stratum_fibrosum_et_griseum_superficiale",
+    "color": 123,
+    "leaves": []
+  },
+  "970": {
+    "name": "periventricular_layer",
+    "color": 124,
+    "leaves": []
+  },
+  "971": {
+    "name": "medulla_oblongata",
+    "color": 125,
+    "leaves": [
+      934,
+      974,
+      1001,
+      938,
+      930,
+      945,
+      964,
+      967,
+      997,
+      1016,
+      1022,
+      1023,
+      1029,
+      1030,
+      1031,
+      1032,
+      927,
+      944,
+      961,
+      991,
+      956,
+      929,
+      941,
+      943,
+      965,
+      981,
+      985,
+      947,
+      987,
+      1014,
+      924,
+      936,
+      1010,
+      1019
+    ]
+  },
+  "972": {
+    "name": "tectum",
+    "color": 126,
+    "leaves": [
+      926,
+      946,
+      969,
+      995,
+      1000,
+      1018,
+      1024,
+      970
+    ]
+  },
+  "973": {
+    "name": "hypothalamus",
+    "color": 127,
+    "leaves": [
+      998,
+      950,
+      953,
+      983,
+      919,
+      994,
+      948
+    ]
+  },
+  "974": {
+    "name": "superior_dorsal_medulla_oblongata_stripe_1_(remaining)",
+    "color": 128,
+    "leaves": []
+  },
+  "975": {
+    "name": "ventral_entopeduncular_nucleus",
+    "color": 129,
+    "leaves": []
+  },
+  "976": {
+    "name": "peripheral_nervous_system",
+    "color": 130,
+    "leaves": [
+      920,
+      928,
+      966,
+      984,
+      1002,
+      1009
+    ]
+  },
+  "977": {
+    "name": "prosencephalon_(forebrain)",
+    "color": 131,
+    "leaves": [
+      1017,
+      951,
+      918,
+      998,
+      950,
+      953,
+      983,
+      919,
+      994,
+      948,
+      923,
+      975,
+      978,
+      958,
+      982,
+      932,
+      939,
+      993,
+      957,
+      1035,
+      949,
+      992,
+      1005,
+      996,
+      1003,
+      1026
+    ]
+  },
+  "978": {
+    "name": "eminentia_thalami_(remaining)",
+    "color": 132,
+    "leaves": []
+  },
+  "980": {
+    "name": "inferior_medulla_oblongata",
+    "color": 133,
+    "leaves": [
+      943,
+      965,
+      981,
+      985,
+      947,
+      987,
+      1014,
+      924,
+      936,
+      1010,
+      1019
+    ]
+  },
+  "981": {
+    "name": "inferior_dorsal_medulla_oblongata_stripe_4",
+    "color": 134,
+    "leaves": []
+  },
+  "982": {
+    "name": "posterior_tuberculum_(basal_part_of_prethalamus_and_thalamus)",
+    "color": 135,
+    "leaves": []
+  },
+  "983": {
+    "name": "caudal_hypothalamus",
+    "color": 136,
+    "leaves": []
+  },
+  "984": {
+    "name": "posterior_lateral_line_ganglion",
+    "color": 137,
+    "leaves": []
+  },
+  "985": {
+    "name": "inferior_dorsal_medulla_oblongata_stripe_5",
+    "color": 138,
+    "leaves": []
+  },
+  "986": {
+    "name": "intermediate_dorsal_medulla_oblongata",
+    "color": 139,
+    "leaves": [
+      991,
+      956,
+      929,
+      941
+    ]
+  },
+  "987": {
+    "name": "area_postrema",
+    "color": 140,
+    "leaves": []
+  },
+  "988": {
+    "name": "intermediate_hypothalamus_(entire)",
+    "color": 141,
+    "leaves": [
+      950,
+      953
+    ]
+  },
+  "989": {
+    "name": "torus_semicircularis",
+    "color": 142,
+    "leaves": []
+  },
+  "991": {
+    "name": "intermediate_dorsal_medulla_oblongata_stripe_1",
+    "color": 143,
+    "leaves": []
+  },
+  "992": {
+    "name": "retinal_arborization_field_6",
+    "color": 144,
+    "leaves": []
+  },
+  "993": {
+    "name": "ventral_habenula",
+    "color": 145,
+    "leaves": []
+  },
+  "994": {
+    "name": "retinal_arborization_field_1",
+    "color": 146,
+    "leaves": []
+  },
+  "995": {
+    "name": "stratum_marginale",
+    "color": 147,
+    "leaves": []
+  },
+  "996": {
+    "name": "retinal_arborization_field_8",
+    "color": 148,
+    "leaves": []
+  },
+  "997": {
+    "name": "interpeduncular_nucleus",
+    "color": 149,
+    "leaves": []
+  },
+  "998": {
+    "name": "rostral_hypothalamus",
+    "color": 150,
+    "leaves": []
+  },
+  "999": {
+    "name": "medial_tegmentum_(entire)",
+    "color": 151,
+    "leaves": [
+      1034,
+      1006,
+      1015
+    ]
+  },
+  "1000": {
+    "name": "sac__spv",
+    "color": 152,
+    "leaves": []
+  },
+  "1001": {
+    "name": "superior_dorsal_medulla_oblongata_stripe_2&3",
+    "color": 153,
+    "leaves": []
+  },
+  "1002": {
+    "name": "octaval_ganglion",
+    "color": 154,
+    "leaves": []
+  },
+  "1003": {
+    "name": "retinal_arborization_field_9",
+    "color": 155,
+    "leaves": []
+  },
+  "1004": {
+    "name": "pretectum",
+    "color": 156,
+    "leaves": [
+      949,
+      992,
+      1005,
+      996,
+      1003,
+      1026
+    ]
+  },
+  "1005": {
+    "name": "retinal_arborization_field_7",
+    "color": 157,
+    "leaves": []
+  },
+  "1006": {
+    "name": "medial_tegmentum_(remaining)",
+    "color": 158,
+    "leaves": []
+  },
+  "1007": {
+    "name": "mesencephalon_(midbrain)",
+    "color": 159,
+    "leaves": [
+      1034,
+      1006,
+      1015,
+      1008,
+      963,
+      926,
+      946,
+      969,
+      995,
+      1000,
+      1018,
+      1024,
+      970,
+      989
+    ]
+  },
+  "1008": {
+    "name": "lateral_tegmentum",
+    "color": 160,
+    "leaves": []
+  },
+  "1009": {
+    "name": "glossopharyngeal_ganglion",
+    "color": 161,
+    "leaves": []
+  },
+  "1010": {
+    "name": "lateral_reticular_nucleus",
+    "color": 162,
+    "leaves": []
+  },
+  "1012": {
+    "name": "superior_ventral_medulla_oblongata_(entire)",
+    "color": 163,
+    "leaves": [
+      964,
+      967,
+      997,
+      1016,
+      1022,
+      1023,
+      1029,
+      1030,
+      1031,
+      1032
+    ]
+  },
+  "1013": {
+    "name": "prethalamus_(ventral_thalamus)",
+    "color": 164,
+    "leaves": [
+      958,
+      982
+    ]
+  },
+  "1014": {
+    "name": "vagal_sensory_lobe",
+    "color": 165,
+    "leaves": []
+  },
+  "1015": {
+    "name": "oculomotor_nucleus",
+    "color": 166,
+    "leaves": []
+  },
+  "1016": {
+    "name": "locus_coeruleus",
+    "color": 167,
+    "leaves": []
+  },
+  "1017": {
+    "name": "olfactory_bulb",
+    "color": 168,
+    "leaves": []
+  },
+  "1018": {
+    "name": "stratum_album_centrale",
+    "color": 169,
+    "leaves": []
+  },
+  "1019": {
+    "name": "inferior_ventral_medulla_oblongata_(remaining)",
+    "color": 170,
+    "leaves": []
+  },
+  "1020": {
+    "name": "telencephalon",
+    "color": 171,
+    "leaves": [
+      1017,
+      951,
+      918
+    ]
+  },
+  "1021": {
+    "name": "intermediate_medulla_oblongata",
+    "color": 172,
+    "leaves": [
+      927,
+      944,
+      961,
+      991,
+      956,
+      929,
+      941
+    ]
+  },
+  "1022": {
+    "name": "posterior_(ventral)_trigeminal_motor_nucleus",
+    "color": 173,
+    "leaves": []
+  },
+  "1023": {
+    "name": "superior_ventral_medulla_oblongata_(remaining)",
+    "color": 174,
+    "leaves": []
+  },
+  "1024": {
+    "name": "stratum_griseum_centrale",
+    "color": 175,
+    "leaves": []
+  },
+  "1025": {
+    "name": "nucleus_isthmi",
+    "color": 176,
+    "leaves": [
+      1029,
+      1030,
+      1031,
+      1032
+    ]
+  },
+  "1026": {
+    "name": "nucleus_of_the_medial_longitudinal_fascicle_(pretectum,_basal_part)",
+    "color": 177,
+    "leaves": []
+  },
+  "1027": {
+    "name": "rhombencephalon_(hindbrain)",
+    "color": 178,
+    "leaves": [
+      959,
+      934,
+      974,
+      1001,
+      938,
+      930,
+      945,
+      964,
+      967,
+      997,
+      1016,
+      1022,
+      1023,
+      1029,
+      1030,
+      1031,
+      1032,
+      927,
+      944,
+      961,
+      991,
+      956,
+      929,
+      941,
+      943,
+      965,
+      981,
+      985,
+      947,
+      987,
+      1014,
+      924,
+      936,
+      1010,
+      1019
+    ]
+  },
+  "1029": {
+    "name": "glutamatergic_domain",
+    "color": 179,
+    "leaves": []
+  },
+  "1030": {
+    "name": "posterior_cholinergic_domain",
+    "color": 180,
+    "leaves": []
+  },
+  "1031": {
+    "name": "gabaergic_domain",
+    "color": 181,
+    "leaves": []
+  },
+  "1032": {
+    "name": "anterior_cholinergic_domain",
+    "color": 182,
+    "leaves": []
+  },
+  "1034": {
+    "name": "None",
+    "color": 183,
+    "leaves": []
+  },
+  "1035": {
+    "name": "None",
+    "color": 184,
+    "leaves": []
+  }
+}
