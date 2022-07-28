@@ -2,11 +2,10 @@
 Since the regions in the mapZebrain are hierarchical, it would be possible to have a single tif (plus the hiearchy json), where each voxel encodes a value corresponding to the "lowest/smallest" hierarchy region that covers that voxel. There is an ability to decode the single tif file and generate all the masks on the user computer.
 
 # Pre-requirements:
-1- Install numpy,
-2- Install skimage,
-3- Install tifffile.
+Install these 3 libraries: numpy, skimage and tifffile.
 
 # How to use:
+
 1- Set the paths:
 #The path to the regions' data JSON file.
 json_file_path = "/path/to/the/regions-hierarchy.json"
