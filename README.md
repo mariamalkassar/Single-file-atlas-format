@@ -34,13 +34,13 @@ Install these 3 libraries: numpy, skimage and tifffile.
 2- Create an object of RegionMaskDecoder class:</br>
 <code>regions_decoder = RegionMaskDecoder(json_file_path, mask_file_path, output_directory_path)</code>
 
-3- Use this function to extract ONLY one region from the mask.
+3- Use this function to extract ONLY one region from the mask.</br>
    <code> regions_decoder.generate_regions_tif_files([971]) </code>
 
-   Use this function to extract many regions from the mask.
-   Example: [971, 923] a list of region IDS.
-   You can choose to save the generate files combined or separate by entering the last attribute (True, False correspondingly)
+   Use this function to extract many regions from the mask.</br>
+   Example: [971, 923] a list of region IDS.</br>
+   You can choose to save the generate files combined or separate by entering the last attribute (True, False correspondingly)</br>
    <code>regions_decoder.generate_regions_tif_files([971, 923], False) </code>
     
-   Use this function to extract all the regions from the mask.
+   Use this function to extract all the regions from the mask.</br>
    <code>regions_decoder.generate_all_tif_files() </code>
