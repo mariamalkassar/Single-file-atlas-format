@@ -105,7 +105,7 @@ class RegionMaskDecoder:
         region_voxels_data = self.get_region_voxels_data(self.all_json_data, region_json_data)
         self.save_voxels_data_to_tif_file(region_voxels_data, region_json_data['name'] + ".tif")
 
-    def generate_multiple_regions_tif_files(self, regions_ids, is_merged_result):
+    def generate_regions_tif_files(self, regions_ids, is_merged_result=True):
         '''
         this function extracts the voxels data from the mask and then save it as tif file.
         :param regions_ids: array of regions IDs
@@ -129,6 +129,10 @@ class RegionMaskDecoder:
         if is_merged_result:
             self.save_voxels_data_to_tif_file(result, tif_file_name + ".tif")
 
+    def generate_all_tif_files(self):
+        for region_id in self.all_json_data:
+            self.generate_region_tif_file(region_id)
+
 
 # The path to the regions' data JSON file.
 json_file_path = "/path/to/the/regions-leaves-info.json"
@@ -142,12 +146,14 @@ output_directory_path = "path/to/the/destination/directory"
 
 if __name__ == '__main__':
     regions_decoder = RegionMaskDecoder(json_file_path, mask_file_path, output_directory_path)
-
-    # Use this function to extract a specific region from the mask.
-    # Example: 971 is the id of this region "medulla_oblongata".
-    regions_decoder.generate_region_tif_file(971)
+    
+    # Use this function to extract ONLY one region from the mask.
+    regions_decoder.generate_regions_tif_files([971])
 
     # Use this function to extract many regions from the mask.
     # Example: [971, 923] a list of region IDS.
     # You can choose to save the generate files combined or separate by entering the last attribute (True, False correspondingly)
-    regions_decoder.generate_multiple_regions_tif_files([971, 923], False)
+    regions_decoder.generate_regions_tif_files([971, 923], False)
+    
+    # Use this function to extract all the regions from the mask.
+    regions_decoder.generate_all_tif_files()
