@@ -1,7 +1,9 @@
-
 # Single file format for https://mapzebrain.org/ Atlas
 
 Since the regions in the mapZebrain are hierarchical, it would be possible to have a single tif (plus the hiearchy json), where each voxel encodes a value corresponding to the "lowest/smallest" hierarchy region that covers that voxel. There is an ability to decode the single tif file and generate all the masks on the user computer.
+***<b>Note that some regions in the atlas are currently not mutually exclusive and collectively exhaustive
+Thus some regions in the single-file format might be slightly incorrect</b> ***    
+<br>
 
 # Media files:
 - <b>mask.tif.zip:</b> </br>
